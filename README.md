@@ -18,21 +18,13 @@ Tested on Python 3.5 with standard packages (e.g. numpy, scipy, abc) and the fol
 
 To cite the framework:
 
-> @inproceedings{DBLP:conf/uai/GimelfarbSL19,
->  author    = {Michael Gimelfarb and
->               Scott Sanner and
->               Chi{-}Guhn Lee},
->  editor    = {Amir Globerson and
->               Ricardo Silva},
->  title     = {Epsilon-BMC: {A} Bayesian Ensemble Approach to Epsilon-Greedy Exploration
->               in Model-Free Reinforcement Learning},
->  booktitle = {Proceedings of the Thirty-Fifth Conference on Uncertainty in Artificial
->               Intelligence, {UAI} 2019, Tel Aviv, Israel, July 22-25, 2019},
->  pages     = {162},
->  publisher = {{AUAI} Press},
->  year      = {2019},
->  url       = {http://auai.org/uai2019/proceedings/papers/162.pdf},
->  timestamp = {Fri, 19 Jul 2019 13:05:12 +0200},
->  biburl    = {https://dblp.org/rec/conf/uai/GimelfarbSL19.bib},
->  bibsource = {dblp computer science bibliography, https://dblp.org}
+> @inproceedings{GimelfarbSL19,
+> author={Michael Gimelfarb and Scott Sanner and Chi{-}Guhn Lee},
+> editor={Amir Globerson and Ricardo Silva}, 
+> title={Epsilon-BMC: {A} Bayesian Ensemble Approach to Epsilon-Greedy Exploration in Model-Free Reinforcement Learning},
+> booktitle={Proceedings of the Thirty-Fifth Conference on Uncertainty in Artificial Intelligence, {UAI} 2019, Tel Aviv, Israel, July 22-25, 2019},
+> pages={162},
+> publisher={{AUAI} Press},
+> year={2019},
+> url={http://auai.org/uai2019/proceedings/papers/162.pdf}
 > }
