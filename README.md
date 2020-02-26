@@ -18,7 +18,7 @@ Tested on Python 3.5 with standard packages (e.g. numpy, scipy, abc) and the fol
 
 To cite the framework:
 
->@inproceedings{DBLP:conf/uai/GimelfarbSL19,
+> @inproceedings{DBLP:conf/uai/GimelfarbSL19,
 >  author    = {Michael Gimelfarb and
 >               Scott Sanner and
 >               Chi{-}Guhn Lee},
@@ -35,4 +35,4 @@ To cite the framework:
 >  timestamp = {Fri, 19 Jul 2019 13:05:12 +0200},
 >  biburl    = {https://dblp.org/rec/conf/uai/GimelfarbSL19.bib},
 >  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+> }
